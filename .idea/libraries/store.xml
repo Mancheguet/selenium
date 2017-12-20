@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="store">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/store/Entrada-moodle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/store/Entrada-moodle-mac.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
